@@ -4,7 +4,7 @@
 
 I'm currently studying a Bachelor of Computer Science at La Trobe University and proud to be working at Family Zone Cyber Safety.
 
-I am always working on personal projects because working directly with new tools is the best way to learn them. I'm currently working on two large projects with a friend from uni - a social network for gamers and a studies tracker. I love connecting the dots, solving problems, improving workflows, etc.
+I am always working on personal projects as I believe working directly with new tools is the best way to learn them. I'm currently working on two large projects with a friend from uni - a social network for gamers and a studies tracker. I love connecting the dots, solving problems, improving workflows, etc.
 
 Read my [gists](https://gist.github.com/tobyscott25).
 
