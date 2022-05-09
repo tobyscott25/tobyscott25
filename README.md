@@ -24,7 +24,7 @@ Read my [gists](https://gist.github.com/tobyscott25).
 - VueJS (with [Vue Router](https://router.vuejs.org/guide/) and [Vuex](https://vuex.vuejs.org/guide/) state management)
 - CSS Bootstrap, TailwindCSS, PostCSS, Sass
 
-### 🌱 Wanting to learn:
+### 🌱 Learning:
 - TypeScript
 - Mobile development (currently eyeing out [Flutter](https://flutter.dev/))
 - Rust
