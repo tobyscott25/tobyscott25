@@ -2,9 +2,11 @@
 
 ### 🙋 About me
 
-I'm proud to be working at Family Zone Cyber Safety and am currently studying a Bachelor of Computer Science at La Trobe University.
+I'm proud to be working at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) while studying a Bachelor of Computer Science part-time at [La Trobe University](https://www.latrobe.edu.au/).
 
-I am always working on personal projects as I believe working directly with new tools is the best way to learn them. I'm currently working on two large projects with a friend from uni - a social network for gamers and a studies tracker. I love connecting the dots, solving problems, improving workflows, etc.
+I love connecting the dots, solving problems, improving workflows, etc. and I'm always working on personal projects as I believe that's the best way to learn new tools and skills.
+
+I'm also currently working on two large projects with a friend - a social network for gamers and a studies tracker.
 
 Read my [gists](https://gist.github.com/tobyscott25).
 
