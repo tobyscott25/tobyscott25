@@ -12,7 +12,7 @@ Read my [gists](https://gist.github.com/tobyscott25).
 
 ### 🔭 My personal hobbies and interests:
 - Full stack web development
-- Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux distributions (my dotfiles [here](https://github.com/tobyscott25/dotfiles)).
+- Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux distributions (my [dotfiles here](https://github.com/tobyscott25/dotfiles)).
 
 ### ⭐ I have experience working with:
 - Linux (primarily Debian-based distros)
