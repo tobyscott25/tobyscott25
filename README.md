@@ -1,5 +1,3 @@
-# Hi, I'm Toby 👋
-
 ### 🙋 About me
 
 I'm proud to be working at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) while studying a Bachelor of Computer Science part-time at [La Trobe University](https://www.latrobe.edu.au/).
@@ -29,7 +27,7 @@ Read my [gists](https://gist.github.com/tobyscott25).
 
 ### 🌱 I'm learning:
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
-- Mobile development (using [Flutter](https://flutter.dev/))
+- [Flutter & Dart](https://flutter.dev/)
 - [Rust](https://www.rust-lang.org/)
 - [AWS](https://docs.aws.amazon.com/) & [GCP](https://cloud.google.com/docs)
 
