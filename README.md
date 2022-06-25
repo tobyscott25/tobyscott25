@@ -1,6 +1,6 @@
 ### 🙋 About me
 
-I'm proud to be working at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) while studying a Bachelor of Computer Science part-time at [La Trobe University](https://www.latrobe.edu.au/).
+Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
 
 I love connecting the dots, solving problems, improving workflows, etc. and I'm always working on personal projects as I believe that's the best way to learn new tools and skills.
 
