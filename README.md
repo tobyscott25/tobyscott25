@@ -1,6 +1,6 @@
 ### 🙋 About me
 
-Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
+Full-Stack Web Developer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
 
 I love connecting the dots, solving problems, improving workflows, etc. and I'm always working on personal projects as I believe that's the best way to learn new tools and skills.
 
