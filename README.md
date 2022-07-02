@@ -1,4 +1,5 @@
-## Full-Stack Web Developer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
+## Full-Stack Web Developer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families)
+## Computer Science Student at [La Trobe University](https://www.latrobe.edu.au/)
 
 ### 🙋 About me
 
