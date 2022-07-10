@@ -1,7 +1,7 @@
 ### 🙋 About me
 Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
 
-I love improving workflows, enhancing productivity, automating tasks, etc. and writing [gists](https://gist.github.com/tobyscott25) for personal documentation. I'm always working on personal projects, both for fun and to learn new tools and skills, including a few large projects with a friend from uni - projects to be announced soon!
+I love improving workflows, enhancing productivity, automating tasks, and writing [gists](https://gist.github.com/tobyscott25) for personal documentation. I'm always working on personal projects, both for fun and to learn new tools and skills, including a few large projects with a friend from uni - projects to be announced soon!
 
 ### 🔭 My personal hobbies and interests:
 - Web design and development
