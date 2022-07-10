@@ -1,13 +1,8 @@
-## Full-Stack Web Developer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families)
-## Computer Science Student at [La Trobe University](https://www.latrobe.edu.au/)
+## Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families)
 
 ### 🙋 About me
 
-I love connecting the dots, solving problems, improving workflows, etc. and I'm always working on personal projects as I believe that's the best way to learn new tools and skills.
-
-I'm also currently working on two large projects with a friend - a social network for gamers and a studies tracker.
-
-Read my [gists](https://gist.github.com/tobyscott25).
+I love connecting the dots, solving problems, improving workflows, etc. and writing [gists](https://gist.github.com/tobyscott25). I'm always working on personal projects as I believe that's the best way to learn new tools and skills. I'm studying Computer Science at [La Trobe University](https://www.latrobe.edu.au/) and working a few large projects with a friend from uni - projects soon to be announced!
 
 ### 🔭 My personal hobbies and interests:
 - Full stack web development
