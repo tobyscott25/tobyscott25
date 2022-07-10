@@ -5,7 +5,7 @@ I love improving workflows, enhancing productivity, automating tasks, and writin
 
 ### 🔭 My personal hobbies and interests:
 - Web design and development
-- Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux distributions (my dotfiles available [here](https://github.com/tobyscott25/dotfiles)).
+- Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux distributions (my dotfiles available [here](https://github.com/tobyscott25/dotfiles))
 
 ### ⭐ I have experience working with:
 - Linux (mostly Arch and Debian-based distributions)
