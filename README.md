@@ -10,12 +10,10 @@ I love improving workflows, enhancing productivity, automating tasks, etc. and w
 ### ⭐ I have experience working with:
 - Linux (mostly Arch and Debian-based distributions)
 - Git
-- Atlassian tools (Jira, Confluence, BitBucket)
-- AWS
-- PHP (including [Slim](https://www.slimframework.com/docs/v4) to build RESTful APIs)
-- Python (including [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart) to build RESTful APIs)
-- Relational databases ([MariaDB](https://mariadb.org))
+- Atlassian tools (Jira, Confluence, etc)
 - Node.js
+- Building RESTful APIs (in Python with [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart), in PHP with [Slim](https://www.slimframework.com/docs/v4))
+- Relational databases ([MariaDB](https://mariadb.org))
 - JavaScript frameworks and bundling tools ([Vue](https://vuejs.org), [React](https://reactjs.org), [Electron](https://www.electronjs.org), [Webpack](https://webpack.js.org))
 - CSS pre-processors and utility class frameworks ([PostCSS](https://postcss.org/), [Sass](https://sass-lang.com/guide), [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction), [TailwindCSS](https://tailwindcss.com/docs/installation))
 - Content Management Systems ([Liferay](https://www.liferay.com), with [Apache Freemarker](https://freemarker.apache.org) for templating)
@@ -23,11 +21,10 @@ I love improving workflows, enhancing productivity, automating tasks, etc. and w
 - Integrating and using [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3) & [Google Analytics](https://marketingplatform.google.com/about/analytics)
 
 ### 🌱 I'm learning:
+- Cloud/Serverless ([AWS](https://aws.amazon.com), [GCP](https://cloud.google.com))
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Flutter & Dart](https://flutter.dev)
 - [Rust](https://www.rust-lang.org)
-- Google Cloud Platform
-
 
 ---
 
