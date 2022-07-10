@@ -9,25 +9,24 @@ I love improving workflows, enhancing productivity, automating tasks, etc. and w
 
 ### ⭐ I have experience working with:
 - Linux (mostly Arch and Debian-based distributions)
-- Git (GitHub & GitLab)
+- Git
 - Atlassian tools (Jira, Confluence, BitBucket)
-- [AWS](https://docs.aws.amazon.com)
-- PHP (including [Slim](https://www.slimframework.com/docs/v4) to build REST APIs)
-- Python (including [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart) to build REST APIs)
+- AWS
+- PHP (including [Slim](https://www.slimframework.com/docs/v4) to build RESTful APIs)
+- Python (including [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart) to build RESTful APIs)
 - Relational databases ([MariaDB](https://mariadb.org))
-- [Node.js](https://nodejs.org/en/about)
-- [Electron.js](https://www.electronjs.org)
-- [Webpack](https://webpack.js.org)
-- [Vue.js](https://vuejs.org/guide/quick-start.html) (with [Vuex](https://vuex.vuejs.org/guide/) for state management and [Vue Router](https://router.vuejs.org/guide))
-- Liferay CMS (using [Apache Freemarker](https://freemarker.apache.org) as template engine)
+- Node.js
+- JavaScript frameworks and bundling tools ([Vue](https://vuejs.org), [React](https://reactjs.org), [Electron](https://www.electronjs.org), [Webpack](https://webpack.js.org))
 - CSS pre-processors and utility class frameworks ([PostCSS](https://postcss.org/), [Sass](https://sass-lang.com/guide), [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction), [TailwindCSS](https://tailwindcss.com/docs/installation))
+- Content Management Systems ([Liferay](https://www.liferay.com), with [Apache Freemarker](https://freemarker.apache.org) for templating)
+- APM/SRE ([New Relic](https://newrelic.com), [Datadog](https://www.datadoghq.com), [Grafana](https://grafana.com), [Pingdom](https://www.solarwinds.com/pingdom))
 - Integrating and using [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3) & [Google Analytics](https://marketingplatform.google.com/about/analytics)
 
 ### 🌱 I'm learning:
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Flutter & Dart](https://flutter.dev)
 - [Rust](https://www.rust-lang.org)
-- [GCP](https://cloud.google.com/docs)
+- Google Cloud Platform
 
 
 ---
