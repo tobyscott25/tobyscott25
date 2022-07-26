@@ -11,6 +11,7 @@ I love improving workflows, enhancing productivity, automating tasks, and writin
 - Linux (mostly Arch and Debian-based distributions)
 - Git
 - Atlassian tools (Jira, Confluence, etc)
+- Infrastructure as Code (Terraform)
 - Node.js
 - Building RESTful APIs (in Python with [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart), in PHP with [Slim](https://www.slimframework.com/docs/v4))
 - Relational databases ([MariaDB](https://mariadb.org))
