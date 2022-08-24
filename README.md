@@ -11,13 +11,11 @@ I love improving workflows, enhancing productivity, automating tasks, and writin
 - Linux (mostly Arch and Debian-based distributions)
 - Git
 - Atlassian tools (Jira, Confluence, etc)
-- Infrastructure as Code ([Terraform](https://www.terraform.io/))
 - Building REST APIs
   - in Python with [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart)
   - in PHP with [Slim](https://www.slimframework.com/docs/v4)
   - in [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html) with [Express.js](https://expressjs.com/)
 - Relational databases ([MariaDB](https://mariadb.org))
-- Cloud/Serverless Infrastructure ([AWS](https://aws.amazon.com), [GCP](https://cloud.google.com))
 - JavaScript frameworks and bundling tools ([Vue](https://vuejs.org), [React](https://reactjs.org), [Electron](https://www.electronjs.org), [Webpack](https://webpack.js.org))
 - CSS pre-processors and utility class frameworks ([PostCSS](https://postcss.org/), [Sass](https://sass-lang.com/guide), [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction), [TailwindCSS](https://tailwindcss.com/docs/installation))
 - Content Management Systems ([Liferay](https://www.liferay.com), with [Apache Freemarker](https://freemarker.apache.org) for templating)
@@ -25,6 +23,8 @@ I love improving workflows, enhancing productivity, automating tasks, and writin
 - Integrating and managing [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3) & [Google Analytics](https://marketingplatform.google.com/about/analytics)
 
 ### 🌱 I'm learning:
+- Infrastructure as Code ([Terraform](https://www.terraform.io/))
+- Cloud/Serverless Infrastructure ([AWS](https://aws.amazon.com), [GCP](https://cloud.google.com))
 - [Flutter & Dart](https://flutter.dev)
 - [Rust](https://www.rust-lang.org)
 
