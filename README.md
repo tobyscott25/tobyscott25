@@ -1,30 +1,33 @@
 ### 🙋 About me
 Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
 
-I love improving workflows, enhancing productivity, automating tasks, and writing [gists](https://gist.github.com/tobyscott25) for personal documentation. I'm always working on personal projects, both for fun and to learn new tools and skills, including a few large projects with a friend from uni - projects to be announced soon!
+I'm always working on personal projects in my own time, it's the best way to learn new tools and skills.
 
 ### 🔭 My personal hobbies and interests:
 - Web design and development
 - Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux desktop environments (my dotfiles available [here](https://github.com/tobyscott25/dotfiles))
 
-### ⭐ I have experience working with:
-- Linux (mostly Arch and Debian-based distributions)
+### ⭐ I have experience in:
+- Linux server administration
 - Git
-- Atlassian tools (Jira, Confluence, etc)
-- Building REST APIs
-  - in Python with [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart)
-  - in PHP with [Slim](https://www.slimframework.com/docs/v4)
-  - in [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html) with [Express.js](https://expressjs.com/)
-- Relational databases ([MariaDB](https://mariadb.org))
-- JavaScript frameworks and bundling tools ([Vue](https://vuejs.org), [React](https://reactjs.org), [Electron](https://www.electronjs.org), [Webpack](https://webpack.js.org))
-- CSS pre-processors and utility class frameworks ([PostCSS](https://postcss.org/), [Sass](https://sass-lang.com/guide), [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction), [TailwindCSS](https://tailwindcss.com/docs/installation))
-- Content Management Systems ([Liferay](https://www.liferay.com), with [Apache Freemarker](https://freemarker.apache.org) for templating)
-- APM/SRE ([New Relic](https://newrelic.com), [Datadog](https://www.datadoghq.com), [Grafana](https://grafana.com), [Pingdom](https://www.solarwinds.com/pingdom))
+- Product management tools (Jira, Confluence, etc)
+- Building web-based UI's with:
+  - JavaScript frameworks and bundling tools ([Vue](https://vuejs.org), [React](https://reactjs.org), [Electron](https://www.electronjs.org), [Webpack](https://webpack.js.org))
+  - CSS pre-processors and utility class frameworks ([PostCSS](https://postcss.org/), [Sass](https://sass-lang.com/guide), [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction), [TailwindCSS](https://tailwindcss.com/docs/installation))
+- Building REST APIs (in [Python](https://flask.palletsprojects.com/en/2.1.x/quickstart), [TypeScript](https://expressjs.com/) and [PHP](https://www.slimframework.com/docs/v4))
+- Relational databases
+- Infrastructure as Code ([Terraform](https://www.terraform.io/))
+- Load testing ([Locust](https://locust.io/))
+- APM ([New Relic](https://newrelic.com), [Datadog](https://www.datadoghq.com), [Grafana](https://grafana.com), [Pingdom](https://www.solarwinds.com/pingdom))
 - Integrating and managing [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3) & [Google Analytics](https://marketingplatform.google.com/about/analytics)
+- [Liferay](https://www.liferay.com) (with [Apache Freemarker](https://freemarker.apache.org) for templating)
+
 
 ### 🌱 I'm learning:
-- Infrastructure as Code ([Terraform](https://www.terraform.io/))
+
 - Cloud/Serverless Infrastructure ([AWS](https://aws.amazon.com), [GCP](https://cloud.google.com))
+- Kubernetes
+- Go
 - [Flutter & Dart](https://flutter.dev)
 - [Rust](https://www.rust-lang.org)
 
