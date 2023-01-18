@@ -1,7 +1,5 @@
 ### 🙋 About me
-Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families) and Computer Science student at [La Trobe University](https://www.latrobe.edu.au/).
-
-Currently working on [Safety Beacon](https://github.com/safetybeacon) in my spare time.
+Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families). Currently working on [Safety Beacon](https://github.com/safetybeacon) in my spare time.
 
 
 ### 🎸 My personal hobbies and interests:
