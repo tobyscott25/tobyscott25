@@ -1,8 +1,10 @@
-Hey 👋 I'm a Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families).
+## Hey there 👋
 
-I love building things, writing music, and customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux desktop environments.
+I'm a lover of lo-fi music, TypeScript, *["ricing"](https://www.reddit.com/r/unixporn)* Linux environments, and all things serverless!
 
-Currently building [Safety Beacon (NFP)](https://github.com/safetybeacon) and [Study Score](https://studyscore.app) in my spare time.
+My spare time currently has me working on:
+- [Safety Beacon (NFP)](https://github.com/safetybeacon)
+- [Study Score](https://studyscore.app)
 
 ---
 
