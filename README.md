@@ -1,17 +1,8 @@
-### 🙋 About me
-Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families). Currently working on [Safety Beacon](https://github.com/safetybeacon) in my spare time.
+Hey 👋 I'm a Software Engineer at [Family Zone Cyber Safety](https://www.familyzone.com/anz/families).
 
+I love building things, writing music, and customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux desktop environments.
 
-### 🎸 My personal hobbies and interests:
-- Building web applications - REST APIs and SPAs
-- Customising (*["ricing"](https://www.reddit.com/r/unixporn)*) Linux desktop environments ([my dotfiles](https://github.com/tobyscott25/dotfiles))
-- Writing & playing music
-
-### 🌱 Currently learning:
-
-- [Golang](https://go.dev/)
-- [Flutter](https://flutter.dev)
-- [Rust](https://www.rust-lang.org)
+Currently building [Safety Beacon (NFP)](https://github.com/safetybeacon) and [Study Score](https://studyscore.app) in my spare time.
 
 ---
 
