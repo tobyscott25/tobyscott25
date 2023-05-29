@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a lover of lo-fi music, TypeScript, *["ricing"](https://www.reddit.com/r/unixporn)* Linux environments, and all things serverless!
+I'm a lover of lo-fi music, TypeScript, *["ricing"](https://www.reddit.com/r/unixporn)* Linux environments, and all things serverless! I'm also a stickler for good documentation - to an annoying extent.
 
 My spare time currently has me working on:
 - [Safety Beacon (NFP)](https://github.com/safetybeacon)
